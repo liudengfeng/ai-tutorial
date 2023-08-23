@@ -27,7 +27,7 @@
 
 ![letter](resource/letter.png)
 
-- 提取概要
+- 编写概要
 
 ![summary](resource/summary.png)
 
